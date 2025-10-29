@@ -1,5 +1,6 @@
 {
   "connection": {
+
     "host": "prod-db.example.com",
     "port": 5432,
     "database": "devops_production",
@@ -18,5 +19,6 @@
     "enabled": true,
     "replicas": 2,
     "sync_mode": "synchronous"
+
   }
 }
